@@ -1,0 +1,5 @@
+MAIN CODE TO CONNECT FOR LINUX AND UBANTU 
+code to connect rds to ec2 ubantu
+ sudo mysql -h database-1.cffwkywqm8so.us-east-1.rds.amazonaws.com -u admin -p
+ sudo mysql -h <hostname> -u admin -p
+so basically you have to paste the host name so that you can get the rds detail and after hitting the cmd you have to enter the auto generated password that you got during making of rds
